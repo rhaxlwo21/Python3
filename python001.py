@@ -14,3 +14,8 @@ while length <500:
     t.pencolor(colors[length%6])
     t.right(89)
     length +=5
+
+#알수 있었던것
+#turtle클래스
+#문자의 배열
+#tutle의 이동fd, 팬 띄우기 up
